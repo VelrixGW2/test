@@ -1,0 +1,25 @@
+[
+  {
+    "id": "20260122-200608-uzp3",
+    "title": "Z X Rrr",
+    "commanders": [
+      "Z X Rrr"
+    ],
+    "dateStart": "2026-01-22T19:06:08.000Z",
+    "dateEnd": "2026-01-22T20:47:33.000Z",
+    "dateLabel": "22.1.2026, 20:06:08 - 22.1.2026, 21:47:33",
+    "url": "https://VelrixGW2.github.io/test/?report=20260122-200608-uzp3",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Obsidian Sanctum",
+          "value": 23,
+          "color": "#f59e0b"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 25
+    }
+  }
+]
